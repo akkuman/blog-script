@@ -1,0 +1,3 @@
+#!/bin/sh
+./ink build
+python ./gitpush.py
